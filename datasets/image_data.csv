@@ -1,0 +1,113 @@
+path,image_name,image_id,receiver,amount,type
+datasets/images/val/Cheque 083654.tif,Cheque 083654.tif,83654,d pradeep kumar,8800000,val
+datasets/images/val/Cheque 083655.tif,Cheque 083655.tif,83655,g jayakrishna,4420000,val
+datasets/images/train/Cheque 083656.tif,Cheque 083656.tif,83656,ravi kumar singh,270000,train
+datasets/images/train/Cheque 083657.tif,Cheque 083657.tif,83657,p shiv kumar,2105000,train
+datasets/images/train/Cheque 083658.tif,Cheque 083658.tif,83658,abhilash,2255000,train
+datasets/images/train/Cheque 083659.tif,Cheque 083659.tif,83659,ramana rao,2630000,train
+datasets/images/train/Cheque 083660.tif,Cheque 083660.tif,83660,shiva prasad,25000000,train
+datasets/images/val/Cheque 100828.tif,Cheque 100828.tif,100828,kumar ravi,2223000,val
+datasets/images/val/Cheque 100829.tif,Cheque 100829.tif,100829,sai kiran,5183000,val
+datasets/images/train/Cheque 100830.tif,Cheque 100830.tif,100830,b shiva,21400000,train
+datasets/images/train/Cheque 100831.tif,Cheque 100831.tif,100831,manish ojha,2235000,train
+datasets/images/train/Cheque 100832.tif,Cheque 100832.tif,100832,amit soni,7480000,train
+datasets/images/train/Cheque 100833.tif,Cheque 100833.tif,100833,v tejaswram,712000,train
+datasets/images/train/Cheque 100834.tif,Cheque 100834.tif,100834,b shravan,3380000,train
+datasets/images/train/Cheque 100835.tif,Cheque 100835.tif,100835,raj shukla,7300000,train
+datasets/images/train/Cheque 120611.tif,Cheque 120611.tif,120611,prasanna kumar,6520000,train
+datasets/images/val/Cheque 120612.tif,Cheque 120612.tif,120612,mamidajula dinesh kumar,7300000,val
+datasets/images/val/Cheque 120613.tif,Cheque 120613.tif,120613,mohammadh fayaz pasha,355000,val
+datasets/images/train/Cheque 120614.tif,Cheque 120614.tif,120614,kadamanchi rana prathap,6900000,train
+datasets/images/train/Cheque 120615.tif,Cheque 120615.tif,120615,mandalemula kaparthi,3340000,train
+datasets/images/train/Cheque 120616.tif,Cheque 120616.tif,120616,anvesh,5500000,train
+datasets/images/train/Cheque 120617.tif,Cheque 120617.tif,120617,g prathap,19090000,train
+datasets/images/train/Cheque 120618.tif,Cheque 120618.tif,120618,k anusha,5560000,train
+datasets/images/train/Cheque 120619.tif,Cheque 120619.tif,120619,gokul dharavth,3300000,train
+datasets/images/train/Cheque 120620.tif,Cheque 120620.tif,120620,ramreddy bheem reddy,40870000,train
+datasets/images/train/Cheque 309061.tif,Cheque 309061.tif,309061,dinesh kumar,51000000,train
+datasets/images/train/Cheque 309062.tif,Cheque 309062.tif,309062,vijay,329000,train
+datasets/images/val/Cheque 309063.tif,Cheque 309063.tif,309063,Prathiba p,120000,val
+datasets/images/val/Cheque 309066.tif,Cheque 309066.tif,309066,priya t,2520000,val
+datasets/images/val/Cheque 309067.tif,Cheque 309067.tif,309067,k sravani,140000,val
+datasets/images/val/Cheque 309068.tif,Cheque 309068.tif,309068,t tripura,4240000,val
+datasets/images/val/Cheque 309069.tif,Cheque 309069.tif,309069,r srilekha,275000,val
+datasets/images/val/Cheque 309070.tif,Cheque 309070.tif,309070,b amulya,767000,val
+datasets/images/val/Cheque 309071.tif,Cheque 309071.tif,309071,g anusha,9540000,val
+datasets/images/val/Cheque 309072.tif,Cheque 309072.tif,309072,v shanthi,7165000,val
+datasets/images/val/Cheque 309073.tif,Cheque 309073.tif,309073,e vinay kumar,3240000,val
+datasets/images/val/Cheque 309074.tif,Cheque 309074.tif,309074,k rajesh,150000,val
+datasets/images/val/Cheque 309075.tif,Cheque 309075.tif,309075,r ravisudhakar,2350000,val
+datasets/images/val/Cheque 309076.tif,Cheque 309076.tif,309076,g prafulla,570400,val
+datasets/images/val/Cheque 309077.tif,Cheque 309077.tif,309077,rajju,120000,val
+datasets/images/val/Cheque 309078.tif,Cheque 309078.tif,309078,vijaypal v,1200500,val
+datasets/images/val/Cheque 309079.tif,Cheque 309079.tif,309079,venu k,52020000,val
+datasets/images/val/Cheque 309080.tif,Cheque 309080.tif,309080,raju k,12500000,val
+datasets/images/train/Cheque 309082.tif,Cheque 309082.tif,309082,r kumar,3000000,train
+datasets/images/train/Cheque 309083.tif,Cheque 309083.tif,309083,ravi v,235000,train
+datasets/images/train/Cheque 309084.tif,Cheque 309084.tif,309084,yakesh,520000000,train
+datasets/images/train/Cheque 309086.tif,Cheque 309086.tif,309086,bommidi harish,12100000,train
+datasets/images/train/Cheque 309089.tif,Cheque 309089.tif,309089,sravani,4220000,train
+datasets/images/train/Cheque 309090.tif,Cheque 309090.tif,309090,sanjana k,17000000,train
+datasets/images/train/Cheque 309091.tif,Cheque 309091.tif,309091,durgasaisri a,25000,train
+datasets/images/train/Cheque 309092.tif,Cheque 309092.tif,309092,SARANYA AKURATHI,42020,train
+datasets/images/train/Cheque 309093.tif,Cheque 309093.tif,309093,Narayana murthy,322000,train
+datasets/images/train/Cheque 309094.tif,Cheque 309094.tif,309094,Dileep mulagala,260000,train
+datasets/images/train/Cheque 309095.tif,Cheque 309095.tif,309095,Jhansi kalipaka,575010,train
+datasets/images/train/Cheque 309096.tif,Cheque 309096.tif,309096,Ram mohan rao k,74030,train
+datasets/images/train/Cheque 309097.tif,Cheque 309097.tif,309097,satya sudheer k,27050,train
+datasets/images/train/Cheque 309098.tif,Cheque 309098.tif,309098,Ambica kora,2113000,train
+datasets/images/train/Cheque 309099.tif,Cheque 309099.tif,309099,sravya pallantla,397000,train
+datasets/images/train/Cheque 309100.tif,Cheque 309100.tif,309100,sudha kapuganti,168900,train
+datasets/images/train/Cheque 309101.tif,Cheque 309101.tif,309101,hindumathi gundala,476500,train
+datasets/images/train/Cheque 309102.tif,Cheque 309102.tif,309102,gopala krishna mulagala,7150000,train
+datasets/images/train/Cheque 309103.tif,Cheque 309103.tif,309103,nagamani kolipaka,235800,train
+datasets/images/train/Cheque 309104.tif,Cheque 309104.tif,309104,tejakrishna sai m,159000,train
+datasets/images/train/Cheque 309105.tif,Cheque 309105.tif,309105,gopal jhu,4220000,train
+datasets/images/train/Cheque 309106.tif,Cheque 309106.tif,309106,chinpudu rao,12500000,train
+datasets/images/train/Cheque 309107.tif,Cheque 309107.tif,309107,dinesh,7100000,train
+datasets/images/train/Cheque 309108.tif,Cheque 309108.tif,309108,rameshwar,520000,train
+datasets/images/train/Cheque 309109.tif,Cheque 309109.tif,309109,raju v,12500000,train
+datasets/images/train/Cheque 309110.tif,Cheque 309110.tif,309110,swapna p,51000,train
+datasets/images/train/Cheque 309111.tif,Cheque 309111.tif,309111,githanjali v,25000000,train
+datasets/images/train/Cheque 309112.tif,Cheque 309112.tif,309112,u ravi,620000000,train
+datasets/images/train/Cheque 309113.tif,Cheque 309113.tif,309113,srujana p,1100000000,train
+datasets/images/train/Cheque 309114.tif,Cheque 309114.tif,309114,vamsi krishna,200000000,train
+datasets/images/train/Cheque 309115.tif,Cheque 309115.tif,309115,vamsi krishna,15000000,train
+datasets/images/train/Cheque 309116.tif,Cheque 309116.tif,309116,raja rao,105000,train
+datasets/images/train/Cheque 309117.tif,Cheque 309117.tif,309117,sandhya m,25000000,train
+datasets/images/train/Cheque 309118.tif,Cheque 309118.tif,309118,ashurni,75000,train
+datasets/images/train/Cheque 309119.tif,Cheque 309119.tif,309119,rameshwar talwar,10000,train
+datasets/images/train/Cheque 309121.tif,Cheque 309121.tif,309121,RAVI,115000,train
+datasets/images/train/Cheque 309122.tif,Cheque 309122.tif,309122,KIRAN KUMAR,410000,train
+datasets/images/train/Cheque 309123.tif,Cheque 309123.tif,309123,ANIRUTH KUMAR,620000,train
+datasets/images/train/Cheque 309124.tif,Cheque 309124.tif,309124,AVINASH,330000,train
+datasets/images/train/Cheque 309125.tif,Cheque 309125.tif,309125,PREM CHAND KUMAR,125000,train
+datasets/images/train/Cheque 309126.tif,Cheque 309126.tif,309126,RAGHU,510000,train
+datasets/images/train/Cheque 309127.tif,Cheque 309127.tif,309127,VAMSHI,305000,train
+datasets/images/train/Cheque 309128.tif,Cheque 309128.tif,309128,NAVEEN KUMAR,67000,train
+datasets/images/train/Cheque 309129.tif,Cheque 309129.tif,309129,ANIL,99000,train
+datasets/images/train/Cheque 309130.tif,Cheque 309130.tif,309130,SESHAGIRI RAO,335000,train
+datasets/images/train/Cheque 309131.tif,Cheque 309131.tif,309131,CHANDRA SHEKAR,510000,train
+datasets/images/train/Cheque 309133.tif,Cheque 309133.tif,309133,SRIKANTH REDDY,1100000,train
+datasets/images/train/Cheque 309134.tif,Cheque 309134.tif,309134,BHANU TEJA,2200000,train
+datasets/images/train/Cheque 309135.tif,Cheque 309135.tif,309135,Satish kumar,125000,train
+datasets/images/train/Cheque 309136.tif,Cheque 309136.tif,309136,ram kumar,130000,train
+datasets/images/train/Cheque 309137.tif,Cheque 309137.tif,309137,rajesh kumar,160000,train
+datasets/images/train/Cheque 309138.tif,Cheque 309138.tif,309138,rahul kumar,535000,train
+datasets/images/train/Cheque 309139.tif,Cheque 309139.tif,309139,vinay singh,23500,train
+datasets/images/train/Cheque 309141.tif,Cheque 309141.tif,309141,anirban,110000,train
+datasets/images/train/Cheque 309142.tif,Cheque 309142.tif,309142,rahul singh,110000,train
+datasets/images/train/Cheque 309144.tif,Cheque 309144.tif,309144,rakesh kumar,260000,train
+datasets/images/train/Cheque 309145.tif,Cheque 309145.tif,309145,shyam rao,2002000,train
+datasets/images/train/Cheque 309147.tif,Cheque 309147.tif,309147,rajib kumar,35000,train
+datasets/images/train/Cheque 309148.tif,Cheque 309148.tif,309148,rajib kumar,360000,train
+datasets/images/train/Cheque 309149.tif,Cheque 309149.tif,309149,Bakshiram,15000000,train
+datasets/images/train/Cheque 309150.tif,Cheque 309150.tif,309150,satyavati,12040000,train
+datasets/images/train/Cheque 309151.tif,Cheque 309151.tif,309151,shobharam,14000000,train
+datasets/images/train/Cheque 309153.tif,Cheque 309153.tif,309153,radha bhandari,17500000,train
+datasets/images/train/Cheque 309155.tif,Cheque 309155.tif,309155,amita kad,210500,train
+datasets/images/train/Cheque 309156.tif,Cheque 309156.tif,309156,latika makhija,5240000,train
+datasets/images/train/Cheque 309157.tif,Cheque 309157.tif,309157,sunil,125000,train
+datasets/images/train/Cheque 309158.tif,Cheque 309158.tif,309158,chahat,42000000,train
+datasets/images/train/Cheque 309159.tif,Cheque 309159.tif,309159,rohit,1220000,train
+datasets/images/train/Cheque 309160.tif,Cheque 309160.tif,309160,prem,30200,train

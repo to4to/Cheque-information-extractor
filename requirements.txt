@@ -1,0 +1,15 @@
+accelerate>=1.10.0
+celery>=5.5.3
+fastapi>=0.116.1
+gunicorn>=23.0.0
+ipykernel>=6.30.1
+ipywidgets>=8.1.7
+labelme>=5.8.3
+opencv-contrib-python>=4.12.0.88
+openpyxl>=3.1.5
+python-dotenv>=1.1.1
+python-multipart>=0.0.20
+redis>=6.4.0
+transformers>=4.55.4
+ultralytics>=8.3.183
+uvicorn>=0.35.0

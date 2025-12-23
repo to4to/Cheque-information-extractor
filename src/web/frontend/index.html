@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cheque Information Extractor</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Cheque Information Extractor</h1>
+            <p>Upload a cheque image to extract information and optionally perform OCR</p>
+        </header>
+
+        <main>
+            <section class="upload-section" id="uploadSection">
+                <form class="upload-form" id="uploadForm">
+                    <div class="file-input-wrapper">
+                        <label for="cheque-image" class="file-label">
+                            <span class="file-icon">📁</span>
+                            <span class="file-text">Choose a cheque image</span>
+                            <span class="file-name" id="file-name">No file chosen</span>
+                        </label>
+                        <input type="file" id="cheque-image" name="file" accept=".png,.jpg,.jpeg,.tiff,.bmp,.gif,.tif" required>
+                    </div>
+                    
+                    <div class="ocr-option">
+                        <input type="checkbox" id="perform-ocr" name="perform_ocr">
+                        <label for="perform-ocr">Perform OCR on account number</label>
+                    </div>
+                    
+                    <button type="submit" class="submit-btn">Extract Information</button>
+                </form>
+                
+                <div class="error-message" id="uploadError" style="display: none;">
+                    <p></p>
+                </div>
+            </section>
+
+            <section class="processing-section hidden" id="processingSection">
+                <div class="spinner"></div>
+                <h2>Processing Your Cheque</h2>
+                <p>We're analyzing your cheque image and extracting information. This may take a few moments...</p>
+                <div class="processing-steps">
+                    <div class="step active">
+                        <div class="step-icon">1</div>
+                        <div class="step-text">Uploading image</div>
+                    </div>
+                    <div class="step active">
+                        <div class="step-icon">2</div>
+                        <div class="step-text">Detecting components</div>
+                    </div>
+                    <div class="step active">
+                        <div class="step-icon">3</div>
+                        <div class="step-text">Performing OCR</div>
+                    </div>
+                    <div class="step">
+                        <div class="step-icon">4</div>
+                        <div class="step-text">Generating results</div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="results-section hidden" id="resultsSection">
+                <h2>Extraction Results</h2>
+                
+                <div class="account-info">
+                    <h3>Account Number</h3>
+                    <div class="account-number-placeholder">
+                        <div class="account-number" id="accountNumber">Not available</div>
+                        <div class="ocr-status" id="ocrStatus">OCR not performed</div>
+                    </div>
+                </div>
+                
+                <div class="detected-objects">
+                    <h3>Detected Components</h3>
+                    <div class="objects-grid" id="objectsGrid">
+                        <!-- Object cards will be added here dynamically -->
+                    </div>
+                </div>
+                
+                <div class="labeled-image">
+                    <h3>Annotated Cheque Image</h3>
+                    <div class="info-text">
+                        <p>Below is the cheque image with all detected components highlighted.</p>
+                    </div>
+                    <div class="labeled-image-container">
+                        <img id="labeledImage" src="" alt="Annotated Cheque">
+                    </div>
+                    <a href="#" class="download-btn" id="downloadLabeledBtn">Download Annotated Image</a>
+                </div>
+                
+                <div class="download-all">
+                    <a href="#" class="download-all-btn" id="downloadAllBtn">Download All Extracted Images</a>
+                </div>
+                
+                <div class="back-to-upload">
+                    <button class="back-btn" id="processAnotherBtn">Process Another Cheque</button>
+                </div>
+            </section>
+
+            <section class="error-section hidden" id="errorSection">
+                <div class="error-icon">⚠️</div>
+                <h2>Processing Error</h2>
+                <p class="error-message" id="errorMessage">We encountered an issue while processing your cheque image. Please try again.</p>
+                <div class="error-details" id="errorDetails" style="display: none;">
+                    <h3>Error Details</h3>
+                    <p id="errorDetailText"></p>
+                </div>
+                <div class="error-actions">
+                    <button class="retry-btn" id="retryBtn">Try Again</button>
+                    <button class="contact-btn" id="contactSupportBtn">Contact Support</button>
+                </div>
+            </section>
+        </main>
+
+        <footer>
+            <p>Cheque Information Extractor &copy; 2025</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
